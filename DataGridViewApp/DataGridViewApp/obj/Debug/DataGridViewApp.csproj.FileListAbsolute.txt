@@ -1,0 +1,9 @@
+F:\profession\Youtube Channel\Dotnet Mob\Windows Application\DGV - Insert Update and Delete\Project\DataGridViewApp\DataGridViewApp\bin\Debug\DataGridViewApp.exe.config
+F:\profession\Youtube Channel\Dotnet Mob\Windows Application\DGV - Insert Update and Delete\Project\DataGridViewApp\DataGridViewApp\bin\Debug\DataGridViewApp.exe
+F:\profession\Youtube Channel\Dotnet Mob\Windows Application\DGV - Insert Update and Delete\Project\DataGridViewApp\DataGridViewApp\bin\Debug\DataGridViewApp.pdb
+F:\profession\Youtube Channel\Dotnet Mob\Windows Application\DGV - Insert Update and Delete\Project\DataGridViewApp\DataGridViewApp\obj\Debug\DataGridViewApp.csprojResolveAssemblyReference.cache
+F:\profession\Youtube Channel\Dotnet Mob\Windows Application\DGV - Insert Update and Delete\Project\DataGridViewApp\DataGridViewApp\obj\Debug\DataGridViewApp.Form1.resources
+F:\profession\Youtube Channel\Dotnet Mob\Windows Application\DGV - Insert Update and Delete\Project\DataGridViewApp\DataGridViewApp\obj\Debug\DataGridViewApp.Properties.Resources.resources
+F:\profession\Youtube Channel\Dotnet Mob\Windows Application\DGV - Insert Update and Delete\Project\DataGridViewApp\DataGridViewApp\obj\Debug\DataGridViewApp.csproj.GenerateResource.Cache
+F:\profession\Youtube Channel\Dotnet Mob\Windows Application\DGV - Insert Update and Delete\Project\DataGridViewApp\DataGridViewApp\obj\Debug\DataGridViewApp.exe
+F:\profession\Youtube Channel\Dotnet Mob\Windows Application\DGV - Insert Update and Delete\Project\DataGridViewApp\DataGridViewApp\obj\Debug\DataGridViewApp.pdb
